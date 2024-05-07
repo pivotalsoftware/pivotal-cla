@@ -7,4 +7,4 @@ mysql-connector = 'mysql:mysql-connector-java:8.0.33'
 
 [plugins]
 springBoot = 'org.springframework.boot:3.2.5'
-gitProperties = 'com.gorylenko.gradle-git-properties:2.4.1'
+gitProperties = 'com.gorylenko.gradle-git-properties:2.4.2'
