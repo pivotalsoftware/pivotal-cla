@@ -6,5 +6,5 @@ webjars-select2 = 'org.webjars.bower:select2:4.0.3'
 mysql-connector = 'mysql:mysql-connector-java:8.0.33'
 
 [plugins]
-springBoot = 'org.springframework.boot:3.2.5'
+springBoot = 'org.springframework.boot:3.3.1'
 gitProperties = 'com.gorylenko.gradle-git-properties:2.4.1'
